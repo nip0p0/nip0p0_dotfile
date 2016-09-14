@@ -1,3 +1,8 @@
+brew cask install
+brew tap caskroom/cask
+
+---
+
 brew cask install 'atom'
 brew cask install 'evernote'
 brew cask install 'google-chrome'
