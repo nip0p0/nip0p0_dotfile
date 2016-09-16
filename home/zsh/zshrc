@@ -13,8 +13,7 @@ export LC_ALL=en_US.UTF-8
 #compinit
 
 #z command installation rupa/github
-export PATH=$PATH:Users/nip0p0/Documents/Computer/downloaded_files/z-master/z.sh
-source ~/Documents/Computer/downloaded_files/z-master/z.sh
+. 
 
 source ~/.zsh_profile
 #oh-my-zsh
