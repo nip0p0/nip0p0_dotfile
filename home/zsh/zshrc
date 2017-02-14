@@ -13,7 +13,7 @@ export LC_ALL=en_US.UTF-8
 #compinit
 
 #z command installation rupa/github
-. 
+.
 
 source ~/.zsh_profile
 #oh-my-zsh
@@ -23,10 +23,12 @@ source $ZSH/oh-my-zsh.sh
 
 #plugins
 plugins=(git)
-
+PATH=/usr/local/bin:$PATH
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 #Vi key bind
 bindkey -e
+
+alias be='bundle exec'
