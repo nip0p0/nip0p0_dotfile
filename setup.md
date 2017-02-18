@@ -1,7 +1,7 @@
 # setting up nip0p0 pc
 
 ## Open the magic box.
-Mac Boooooook yay!
+Amazin Mac Boooooook yaaaay!
 
 ### 1. system setting
 - trackpad
@@ -21,6 +21,10 @@ Mac Boooooook yay!
 
 ### 3. download apps
 - brew cask(https://github.com/nip0p0/nip0p0_dotfiles/blob/master/brew/brew%20cask)
+
+### 4. account setting
+- google account
+- apple account
 
 
 
