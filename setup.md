@@ -14,9 +14,10 @@
 ### 2. terminal setting
 - terminal
   - open terminal
-  - install brew()
-1. 
-
+  - install brew(https://github.com/nip0p0/nip0p0_dotfiles/blob/master/brew/brew%20install)
+  - install brew cask(https://github.com/nip0p0/nip0p0_dotfiles/blob/master/brew/brew%20cask)
+### 3. download apps
+- brew cask(https://github.com/nip0p0/nip0p0_dotfiles/blob/master/brew/brew%20cask)
 
 
 
