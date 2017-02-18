@@ -6,14 +6,15 @@
 - trackpad
   - Tracking Speed maaaax
   - check Tap To Click
- - keyboard
+- keyboard
   - Key Repeat maaaax 
   - modify input source(google-japanese-ime) 
   - modify shortcuts(ex. alfred ⌥space)
   - modify Modifier Keys(ex. reverse Caps Lock and Control)
-1. terminal
-- install brew
-- 
+### 2. terminal setting
+- terminal
+  - open terminal
+  - install brew()
 1. 
 
 
