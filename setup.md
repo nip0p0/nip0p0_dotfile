@@ -47,7 +47,7 @@ Amazing Mac Boooooook yaaaay!
   - fork shun8 vimrc(https://github.com/nip0p0/dotfiles)
  - atom
 - atom
- - install packages()
+ - install packages(https://github.com/nip0p0/nip0p0_dotfiles/blob/master/home/atom/atom_file)
 - workspace directory
  - dev
  - prv
