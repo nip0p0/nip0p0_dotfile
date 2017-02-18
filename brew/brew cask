@@ -1,6 +1,9 @@
-brew cask install
+install
 brew tap caskroom/cask
 
+references
+https://github.com/caskroom/homebrew-cask#learn-more
+https://caskroom.github.io/
 ---
 
 brew cask install 'atom'
