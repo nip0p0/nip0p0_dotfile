@@ -39,6 +39,7 @@ Amazing Mac Boooooook yaaaay!
  - postgres
  - mysql
  - redis
+
 #### config setting
  - zsh
   - oh-my-zsh(https://github.com/robbyrussell/oh-my-zsh)
@@ -46,11 +47,14 @@ Amazing Mac Boooooook yaaaay!
  - vim
   - fork shun8 vimrc(https://github.com/nip0p0/dotfiles)
  - atom
+ 
 #### atom
  - install packages(https://github.com/nip0p0/nip0p0_dotfiles/blob/master/home/atom/atom_file)
+ 
 #### workspace directory
  - dev
  - prv
+
 #### .ssh config
 
 
