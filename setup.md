@@ -33,12 +33,18 @@ Amazin Mac Boooooook yaaaay!
 
 ### 5. development environment setting
 - install
- ruby
- rails
- bundler
- postgres
- mysql
- redis
+ - ruby
+ - rails
+ - bundler
+ - postgres
+ - mysql
+ - redis
+- config setting
+ - zsh
+ - vim
+ - atom
+- atom
+ - install packages()
 
 
 
