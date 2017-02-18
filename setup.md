@@ -41,11 +41,17 @@ Amazing Mac Boooooook yaaaay!
  - redis
 - config setting
  - zsh
+  - oh-my-zsh(https://github.com/robbyrussell/oh-my-zsh)
+  - z command(https://github.com/rupa/z)
  - vim
+  - fork shun8 vimrc(https://github.com/nip0p0/dotfiles)
  - atom
 - atom
  - install packages()
-
+- workspace directory
+ - dev
+ - prv
+- .ssh config
 
 
 
