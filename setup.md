@@ -28,8 +28,8 @@ Amazing Mac Boooooook yaaaay!
 #### add apps to dock
 
 ### 4. account setting
-#### google account
-#### apple account
+- google
+- apple
 
 ### 5. development environment setting
 #### install
