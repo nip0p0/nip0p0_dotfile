@@ -1,5 +1,5 @@
-### home brew website
+home brew website
 https://brew.sh/
 
-### Install homebrew(just copy and paste this code on your terminal)
+Install homebrew(just copy and paste this code on your terminal)
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
