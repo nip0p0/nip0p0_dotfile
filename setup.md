@@ -2,8 +2,8 @@
 
 ## Open the magic box. Mac Boooooook yay!
 
-1. system setting
- - trackpad
+### 1. system setting
+- trackpad
   - Tracking Speed maaaax
   - check Tap To Click
  - keyboard
