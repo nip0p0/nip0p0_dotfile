@@ -1,7 +1,7 @@
 # setting up nip0p0 pc
 
 ## Open the magic box.
-Amazin Mac Boooooook yaaaay!
+Amazing Mac Boooooook yaaaay!
 
 ### 1. system setting
 - trackpad
