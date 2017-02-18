@@ -12,6 +12,10 @@ Amazin Mac Boooooook yaaaay!
   - modify input source(google-japanese-ime) 
   - modify shortcuts(ex. alfred ⌥space)
   - modify Modifier Keys(ex. reverse Caps Lock and Control)
+- dock
+  - Size(small-medium)
+  - Magnification(middle-max)
+  - Position(right)
 
 ### 2. terminal setting
 - terminal
@@ -21,10 +25,20 @@ Amazin Mac Boooooook yaaaay!
 
 ### 3. download apps
 - brew cask(https://github.com/nip0p0/nip0p0_dotfiles/blob/master/brew/brew%20cask)
+- add apps to dock
 
 ### 4. account setting
 - google account
 - apple account
+
+### 5. development environment setting
+- install
+ ruby
+ rails
+ bundler
+ postgres
+ mysql
+ redis
 
 
 
